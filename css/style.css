@@ -485,7 +485,8 @@ body {
 }
 
 .title-size {
-    font-size: 32px;
+    font-size: 22px;
+    font-weight: bold;
 }
 
 
@@ -901,7 +902,7 @@ footer {
 
     .h3-filtres {
         display: flex;
-        font-size: 1em;
+        font-size: 0.9em;
         justify-self: center;
     }
 
